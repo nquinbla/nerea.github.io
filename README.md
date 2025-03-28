@@ -8,6 +8,8 @@ a) Describe las principales diferencias entre el modelo OSI y el modelo TCP/IP, 
 
 b) Explica brevemente las ventajas y limitaciones de cada uno de estos modelos.
 
+***
+
 ### Ejercicio 2
 Explica el papel de la capa de transporte en ambos modelos (OSI y TCP/IP). En tu respuesta, menciona cómo se garantiza la entrega de datos y da ejemplos de protocolos asociados a esta capa.
 
